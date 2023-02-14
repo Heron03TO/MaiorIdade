@@ -1,0 +1,15 @@
+C:\Users\VAIO\Desktop\Projetos\MaiorIdade\bin\Debug\net7.0\MaiorIdade.exe
+C:\Users\VAIO\Desktop\Projetos\MaiorIdade\bin\Debug\net7.0\MaiorIdade.deps.json
+C:\Users\VAIO\Desktop\Projetos\MaiorIdade\bin\Debug\net7.0\MaiorIdade.runtimeconfig.json
+C:\Users\VAIO\Desktop\Projetos\MaiorIdade\bin\Debug\net7.0\MaiorIdade.dll
+C:\Users\VAIO\Desktop\Projetos\MaiorIdade\bin\Debug\net7.0\MaiorIdade.pdb
+C:\Users\VAIO\Desktop\Projetos\MaiorIdade\obj\Debug\net7.0\MaiorIdade.csproj.AssemblyReference.cache
+C:\Users\VAIO\Desktop\Projetos\MaiorIdade\obj\Debug\net7.0\MaiorIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VAIO\Desktop\Projetos\MaiorIdade\obj\Debug\net7.0\MaiorIdade.AssemblyInfoInputs.cache
+C:\Users\VAIO\Desktop\Projetos\MaiorIdade\obj\Debug\net7.0\MaiorIdade.AssemblyInfo.cs
+C:\Users\VAIO\Desktop\Projetos\MaiorIdade\obj\Debug\net7.0\MaiorIdade.csproj.CoreCompileInputs.cache
+C:\Users\VAIO\Desktop\Projetos\MaiorIdade\obj\Debug\net7.0\MaiorIdade.dll
+C:\Users\VAIO\Desktop\Projetos\MaiorIdade\obj\Debug\net7.0\refint\MaiorIdade.dll
+C:\Users\VAIO\Desktop\Projetos\MaiorIdade\obj\Debug\net7.0\MaiorIdade.pdb
+C:\Users\VAIO\Desktop\Projetos\MaiorIdade\obj\Debug\net7.0\MaiorIdade.genruntimeconfig.cache
+C:\Users\VAIO\Desktop\Projetos\MaiorIdade\obj\Debug\net7.0\ref\MaiorIdade.dll
